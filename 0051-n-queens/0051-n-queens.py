@@ -35,7 +35,13 @@ class Solution:
 
     def solveNQueens(self, n: int) -> List[List[str]]:
         ans =[]
-        board =[['.' for _ in range(n)] for _ in range(n)]
+        # board =[['.' for _ in range(n)] for _ in range(n)]
+        board = []
+        for _ in range(n):
+            row=[]
+            for _ in range(n):
+                row.append('.')
+            board.append(row)
         self.func(board,ans,0)
         return ans
         
