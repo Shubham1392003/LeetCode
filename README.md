@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Shubham1392003/LeetCode/tree/master/0182-duplicate-emails) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Shubham1392003/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Shubham1392003/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
