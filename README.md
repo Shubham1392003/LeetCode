@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Shubham1392003/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Shubham1392003/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shubham1392003/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham1392003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubham1392003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubham1392003/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/Shubham1392003/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Shubham1392003/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shubham1392003/LeetCode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shubham1392003/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Shubham1392003/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shubham1392003/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shubham1392003/LeetCode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shubham1392003/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
