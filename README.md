@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shubham1392003/LeetCode/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/Shubham1392003/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shubham1392003/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shubham1392003/LeetCode/tree/master/0079-word-search) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shubham1392003/LeetCode/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Shubham1392003/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
