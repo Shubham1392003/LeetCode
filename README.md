@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham1392003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubham1392003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Shubham1392003/LeetCode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Shubham1392003/LeetCode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Shubham1392003/LeetCode/tree/master/0260-single-number-iii) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shubham1392003/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Shubham1392003/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shubham1392003/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Shubham1392003/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shubham1392003/LeetCode/tree/master/0231-power-of-two) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubham1392003/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shubham1392003/LeetCode/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shubham1392003/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shubham1392003/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
