@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shubham1392003/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Shubham1392003/LeetCode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Shubham1392003/LeetCode/tree/master/0260-single-number-iii) |
+| [1528-shuffle-string](https://github.com/Shubham1392003/LeetCode/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubham1392003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Shubham1392003/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Shubham1392003/LeetCode/tree/master/0079-word-search) |
+| [1528-shuffle-string](https://github.com/Shubham1392003/LeetCode/tree/master/1528-shuffle-string) |
 ## Backtracking
 |  |
 | ------- |
