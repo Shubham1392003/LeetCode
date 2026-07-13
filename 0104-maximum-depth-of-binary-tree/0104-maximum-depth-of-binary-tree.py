@@ -6,14 +6,20 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        ans =[]
-        def countlevel(root , ans,level):
-            if root is None:
-                return
-            if level==len(ans): 
-                ans.append(1)
-            countlevel(root.left,ans,level+1)
-            countlevel(root.right,ans,level+1)
-        countlevel(root,ans,0)
-        return len(ans)
+        # ans =[]
+        # def countlevel(root , ans,level):
+        #     if root is None:
+        #         return
+        #     if level==len(ans): 
+        #         ans.append(1)
+        #     countlevel(root.left,ans,level+1)
+        #     countlevel(root.right,ans,level+1)
+        # countlevel(root,ans,0)
+        # return len(ans)
+
         
+        if root is None:
+            return 0
+        left = self.maxDepth(root.left)
+        right = self.maxDepth(root.right)
+        return 1+max(left,right)
