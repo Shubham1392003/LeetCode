@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shubham1392003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Shubham1392003/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shubham1392003/LeetCode/tree/master/0231-power-of-two) |
+| [0633-sum-of-square-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubham1392003/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shubham1392003/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubham1392003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Shubham1392003/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham1392003/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
