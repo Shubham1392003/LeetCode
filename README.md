@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shubham1392003/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Shubham1392003/LeetCode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Shubham1392003/LeetCode/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/Shubham1392003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham1392003/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0941-valid-mountain-array](https://github.com/Shubham1392003/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1528-shuffle-string](https://github.com/Shubham1392003/LeetCode/tree/master/1528-shuffle-string) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubham1392003/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0496-next-greater-element-i](https://github.com/Shubham1392003/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham1392003/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham1392003/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Shubham1392003/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Shubham1392003/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0633-sum-of-square-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shubham1392003/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
