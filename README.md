@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shubham1392003/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Shubham1392003/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shubham1392003/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Shubham1392003/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Shubham1392003/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Shubham1392003/LeetCode/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shubham1392003/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shubham1392003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubham1392003/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Shubham1392003/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
