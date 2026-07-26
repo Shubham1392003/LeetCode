@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Shubham1392003/LeetCode/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Shubham1392003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubham1392003/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham1392003/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0941-valid-mountain-array](https://github.com/Shubham1392003/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1528-shuffle-string](https://github.com/Shubham1392003/LeetCode/tree/master/1528-shuffle-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shubham1392003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Shubham1392003/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shubham1392003/LeetCode/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shubham1392003/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubham1392003/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Shubham1392003/LeetCode/tree/master/0190-reverse-bits) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
