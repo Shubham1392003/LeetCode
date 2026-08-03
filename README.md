@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shubham1392003/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Shubham1392003/LeetCode/tree/master/0735-asteroid-collision) |
 | [0941-valid-mountain-array](https://github.com/Shubham1392003/LeetCode/tree/master/0941-valid-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shubham1392003/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham1392003/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Shubham1392003/LeetCode/tree/master/1528-shuffle-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shubham1392003/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -202,10 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham1392003/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham1392003/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shubham1392003/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shubham1392003/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubham1392003/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Shubham1392003/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
