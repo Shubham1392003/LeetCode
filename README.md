@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham1392003/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubham1392003/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shubham1392003/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Shubham1392003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Shubham1392003/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubham1392003/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shubham1392003/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Shubham1392003/LeetCode/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/Shubham1392003/LeetCode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shubham1392003/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/Shubham1392003/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1528-shuffle-string](https://github.com/Shubham1392003/LeetCode/tree/master/1528-shuffle-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubham1392003/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham1392003/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shubham1392003/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham1392003/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Shubham1392003/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubham1392003/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
