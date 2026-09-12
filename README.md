@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shubham1392003/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Shubham1392003/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Shubham1392003/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shubham1392003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Shubham1392003/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shubham1392003/LeetCode/tree/master/0231-power-of-two) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shubham1392003/LeetCode/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubham1392003/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Stack
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubham1392003/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shubham1392003/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
