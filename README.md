@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Shubham1392003/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Shubham1392003/LeetCode/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shubham1392003/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/Shubham1392003/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
