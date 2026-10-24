@@ -1,28 +1,28 @@
 class Solution:
-    def countDaysTogether(self, arriveAlice: str, leaveAlice: str,arriveBob: str, leaveBob: str) -> int:
+    def countDaysTogether(self, arriveAlice: str, leaveAlice: str, arriveBob: str, leaveBob: str) -> int:
+        arriveAliceD = self.days(arriveAlice)
+        leaveAliceD = self.days(leaveAlice)
+        arriveBobD = self.days(arriveBob)
+        leaveBobD = self.days(leaveBob)
 
-        al_a = self.dayss(arriveAlice)
-        al_l = self.dayss(leaveAlice)
-        bob_a = self.dayss(arriveBob)
-        bob_l = self.dayss(leaveBob)
+        start = max(arriveAliceD,arriveBobD)
+        end = min(leaveAliceD,leaveBobD)
 
-        start = max(al_a, bob_a)
-        end = min(al_l, bob_l)
-
-        if start > end:
+        if start > end :
             return 0
+        
+        return end-start + 1
 
-        return end - start + 1
-
-    def dayss(self, date: str) -> int:
-        parts = date.split("-")
+    def days(self, date):
+        parts = date.split('-')
         month = int(parts[0])
         day = int(parts[1])
+        ans=0
 
-        days = [31, 28, 31, 30, 31, 30,31, 31, 30, 31, 30, 31]
+        months = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
-        ans = 0
-        for i in range(month - 1):
-            ans += days[i]
+        for i in range(month-1):
+            ans+=months[i]
 
-        return ans + day
+        return ans+day
+        
