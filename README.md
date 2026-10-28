@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shubham1392003/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shubham1392003/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubham1392003/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham1392003/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Shubham1392003/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Shubham1392003/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shubham1392003/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Shubham1392003/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham1392003/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham1392003/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham1392003/LeetCode/tree/master/0079-word-search) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham1392003/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shubham1392003/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Shubham1392003/LeetCode/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shubham1392003/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham1392003/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
