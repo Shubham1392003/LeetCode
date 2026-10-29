@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shubham1392003/LeetCode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Shubham1392003/LeetCode/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubham1392003/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubham1392003/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -440,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham1392003/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Shubham1392003/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
