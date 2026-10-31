@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Shubham1392003/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Shubham1392003/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubham1392003/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/Shubham1392003/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham1392003/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Shubham1392003/LeetCode/tree/master/1528-shuffle-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham1392003/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -139,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Shubham1392003/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Shubham1392003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Shubham1392003/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Shubham1392003/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham1392003/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham1392003/LeetCode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Shubham1392003/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Shubham1392003/LeetCode/tree/master/1020-number-of-enclaves) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham1392003/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shubham1392003/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Shubham1392003/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Shubham1392003/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Shubham1392003/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/Shubham1392003/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham1392003/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
