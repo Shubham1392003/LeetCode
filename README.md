@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Shubham1392003/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Shubham1392003/LeetCode/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Shubham1392003/LeetCode/tree/master/0619-biggest-single-number) |
+| [1729-find-followers-count](https://github.com/Shubham1392003/LeetCode/tree/master/1729-find-followers-count) |
 ## Math
 |  |
 | ------- |
