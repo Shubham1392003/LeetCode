@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shubham1392003/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shubham1392003/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shubham1392003/LeetCode/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/Shubham1392003/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham1392003/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shubham1392003/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Shubham1392003/LeetCode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Shubham1392003/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Shubham1392003/LeetCode/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shubham1392003/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shubham1392003/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Shubham1392003/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Shubham1392003/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Shubham1392003/LeetCode/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubham1392003/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
