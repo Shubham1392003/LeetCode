@@ -8,10 +8,10 @@ class Solution:
         d = abs(divisor)
         while(n>=d):
             count=0
-            while(n>=(d*(2**(count+1)))):
+            while(n>=(d<<(count+1))):
                 count+=1
-            ans+=2**count
-            n-=d*(2**count)
+            ans+=(1<<count)
+            n-=d*(1<<count)
 
         ans *= sign
         return min(max(-2**31,ans),2**31 - 1)
