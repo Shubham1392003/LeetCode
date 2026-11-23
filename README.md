@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Shubham1392003/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Shubham1392003/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shubham1392003/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/Shubham1392003/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Shubham1392003/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shubham1392003/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shubham1392003/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
